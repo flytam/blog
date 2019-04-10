@@ -1,4 +1,6 @@
 # blog
+[babel踩坑记录](https://github.com/flytam/blog/issues/5) 2019-04-10
+
 [使用 rxjs 实现拖拽](https://github.com/flytam/blog/issues/4) 2019-01-23
 
 [初识web-components & todolist实现](https://github.com/flytam/blog/issues/3) 2019-01-10
