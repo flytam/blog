@@ -2,7 +2,7 @@
 
 #### react
 
-[preact详细源码解析](https://github.com/flytam/blog/issues/10) 2019-11-14
+[preact hook详细源码解析](https://github.com/flytam/blog/issues/10) 2019-11-14
 
 [简析redux技术栈(二)：认识saga的buffer和chanel](https://github.com/flytam/blog/issues/9) 2019-08-18
 
