@@ -16,6 +16,8 @@
 
 #### 前端工程化
 
+[由浅至深了解webpack异步加载](https://github.com/flytam/blog/issues/13) 2019-12-14
+
 [两个小优化，webpack打包速度飞起来](https://github.com/flytam/blog/issues/6) 2019-04-30
 
 [babel踩坑记录](https://github.com/flytam/blog/issues/5) 2019-04-10
