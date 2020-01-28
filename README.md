@@ -28,7 +28,7 @@
 
 #### nodejs
 
-[一个超方便一键将 csdn 博客生成 hexo 源文件的工具](https://github.com/flytam/blog/issues/15) 2020-01-28
+[一个超方便一键将 csdn 博客生成 hexo 源文件的工具](https://github.com/flytam/blog/issues/14) 2020-01-28
 
 [Node.js 宣布一个新的 --experimental-modules 译](https://github.com/flytam/blog/issues/7) 2019-05-06
 
