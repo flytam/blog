@@ -14,6 +14,8 @@
 
 [简析redux技术栈(一)：redux中间件](https://github.com/flytam/blog/issues/8) 2019-08-14
 
+[preact源码分析系列](https://github.com/flytam/preact-source-learn)
+
 #### 前端工程化
 
 [由浅至深了解webpack异步加载](https://github.com/flytam/blog/issues/13) 2019-12-14
