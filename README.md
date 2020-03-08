@@ -30,6 +30,8 @@
 
 #### nodejs
 
+[都 2020 年了，你还在手动发布 npm 包吗](https://github.com/flytam/blog/issues/15) 2020-03-08
+
 [一个超方便一键将 csdn 博客生成 hexo 源文件的工具](https://github.com/flytam/blog/issues/14) 2020-01-28
 
 [Node.js 宣布一个新的 --experimental-modules 译](https://github.com/flytam/blog/issues/7) 2019-05-06
@@ -37,6 +39,7 @@
 [海图监控项目node后台开发总结](https://github.com/flytam/blog/issues/1)
 
 [使用pkg打包node应用](https://github.com/flytam/blog/issues/2)
+
 
 #### rxjs
 
