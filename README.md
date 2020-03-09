@@ -5,6 +5,8 @@
 
 #### react
 
+[带你找出react中，回调函数绑定this最完美的写法](https://github.com/flytam/blog/issues/16) 2020-03-09
+
 [3分钟掌握react hook 在typescript中的姿势](https://github.com/flytam/blog/issues/12) 2019-12-09
 
 [preact hook详细源码解析](https://github.com/flytam/blog/issues/10) 2019-11-14
