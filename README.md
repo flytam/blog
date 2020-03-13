@@ -1,5 +1,9 @@
 ## blog
 
+[csdn](blog.csdn.net/flytam) [掘金](juejin.im/user/592beb7c2f301e0057f8dc87/posts) [github](github.com/flytam) [知乎](www.zhihu.com/people/tan-jia-hui-19)
+
+-------------
+
 #### Go
 [Go之数组/切片](https://github.com/flytam/blog/issues/11) 2019-12-07
 
