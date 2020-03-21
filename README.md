@@ -1,6 +1,6 @@
 ## blog
 
-[csdn](blog.csdn.net/flytam) [掘金](juejin.im/user/592beb7c2f301e0057f8dc87/posts) [github](github.com/flytam) [知乎](www.zhihu.com/people/tan-jia-hui-19)
+[csdn](https://blog.csdn.net/flytam) [掘金](https://juejin.im/user/592beb7c2f301e0057f8dc87) [github](https://github.com/flytam) [知乎](https://www.zhihu.com/people/tan-jia-hui-19)
 
 -------------
 
