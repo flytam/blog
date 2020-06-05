@@ -3,6 +3,8 @@
 [csdn](https://blog.csdn.net/flytam) [掘金](https://juejin.im/user/592beb7c2f301e0057f8dc87) [github](https://github.com/flytam) [知乎](https://www.zhihu.com/people/tan-jia-hui-19)
 
 -------------
+#### deno
+[deno 初体验，实战记录一个node项目迁移到deno需要做什么](https://github.com/flytam/blog/issues/19)
 
 #### Go
 
