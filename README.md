@@ -14,6 +14,8 @@
 
 #### react
 
+[77.9K Star 的 Axios 项目如何优雅实现请求重试](https://github.com/flytam/blog/issues/21)
+
 [带你找出react中，回调函数绑定this最完美的写法](https://github.com/flytam/blog/issues/16) 2020-03-09
 
 [3分钟掌握react hook 在typescript中的姿势](https://github.com/flytam/blog/issues/12) 2019-12-09
