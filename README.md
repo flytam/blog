@@ -47,6 +47,7 @@
 [初识web-components & todolist实现](https://github.com/flytam/blog/issues/3) 2019-01-10
 
 #### nodejs
+[译：npm 7已经可以使用了](https://github.com/flytam/blog/issues/23)
 
 [如何实现一个惊艳面试官的非递归版本的 js 对象深拷贝方法](https://github.com/flytam/blog/issues/18) 2020-03-28
 
