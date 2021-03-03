@@ -19,6 +19,8 @@
 
 #### react
 
+[React Native性能优化：应该做和不应该做的](https://github.com/flytam/blog/issues) 2021-03-03
+
 [77.9K Star 的 Axios 项目如何优雅实现请求重试](https://github.com/flytam/blog/issues/21)
 
 [带你找出react中，回调函数绑定this最完美的写法](https://github.com/flytam/blog/issues/16) 2020-03-09
