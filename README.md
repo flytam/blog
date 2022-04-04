@@ -7,6 +7,7 @@
 #### javascript
 
 [2020的最后一天，不妨了解下装饰器](https://github.com/flytam/blog/issues/22)
+[javascript装饰器进入stage3了](https://github.com/flytam/blog/issues/26)
 
 #### deno
 [deno 初体验，实战记录一个node项目迁移到deno需要做什么](https://github.com/flytam/blog/issues/19)
