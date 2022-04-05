@@ -1,6 +1,11 @@
 ## blog
 
+<img width="304" alt="image" src="https://user-images.githubusercontent.com/20512530/161692358-f527d658-65b7-4af1-a1e4-effa771118c3.png">
+
+
 [csdn](https://blog.csdn.net/flytam) [掘金](https://juejin.im/user/592beb7c2f301e0057f8dc87) [github](https://github.com/flytam) [知乎](https://www.zhihu.com/people/tan-jia-hui-19)
+
+
 
 -------------
 
