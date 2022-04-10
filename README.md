@@ -57,6 +57,10 @@
 
 [初识web-components & todolist实现](https://github.com/flytam/blog/issues/3) 2019-01-10
 
+#### CI/CD
+
+[打造Github Issue到Hexo部署自动工作流](https://github.com/flytam/blog/issues/27) 2022-04-10
+
 #### nodejs
 [译：npm 7已经可以使用了](https://github.com/flytam/blog/issues/23)
 
