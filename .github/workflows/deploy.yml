@@ -7,6 +7,7 @@ env:
   ISSUE_URL: https://github.com/flytam/blog/issues
   # blog部署的页面
   BLOG: flytam/blog
+  # ${{ github.event.issue.user.login }}
 
 on:
   issues:
@@ -14,6 +15,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # 仓库作者才才能触发
+    if: ${{ github.actor == github.repository_owner }}
     steps:
       - name: 拉取hexo源文件
         uses: actions/checkout@v3
