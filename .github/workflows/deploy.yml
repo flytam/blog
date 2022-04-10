@@ -1,0 +1,49 @@
+name: 部署博客
+
+env:
+  # hexo源文件仓库
+  BLOG_SOURCE: flytam/blog-source
+  # issue链接
+  ISSUE_URL: https://github.com/flytam/blog/issues
+  # blog部署的页面
+  BLOG: flytam/blog
+
+on:
+  issues:
+    types: [opened, edited]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 拉取hexo源文件
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: 'false'
+          repository: ${{ env.BLOG_SOURCE }}
+          ref: 'main'
+          token: ${{ secrets.token }}
+      - name: issue生成 hexo文章
+        uses: flytam/github-issue-to-hexo@v1.0.3
+        with:
+          issue_url: ${{ ISSUE_URL }}
+          output: 'source/_posts'
+          replace: true
+      - name: commit hexo源文件
+        run: |
+          echo $(date) > update.md
+          git add .
+          git config user.name "issue-to-hexo bot"
+          git config user.email "test@github.com"
+          git commit -m "Add a post"
+      - name: 推送hexo源文件
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.token }}
+          repository: ${{ env.BLOG_SOURCE }}
+      - name: 部署hexo
+        uses: theme-keep/hexo-deploy-github-pages-action@master
+        env:
+          PUBLISH_REPOSITORY: ${{ env.BLOG }}
+          BRANCH: gh-pages
+          PUBLISH_DIR: ./public
+          PERSONAL_TOKEN: ${{ secrets.token }} 
