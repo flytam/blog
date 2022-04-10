@@ -40,10 +40,3 @@ jobs:
         with:
           github_token: ${{ secrets.token }}
           repository: ${{ env.BLOG_SOURCE }}
-      - name: 部署hexo
-        uses: theme-keep/hexo-deploy-github-pages-action@master
-        env:
-          PUBLISH_REPOSITORY: ${{ env.BLOG }}
-          BRANCH: gh-pages
-          PUBLISH_DIR: ./public
-          PERSONAL_TOKEN: ${{ secrets.token }} 
