@@ -26,6 +26,8 @@
 
 #### react
 
+[React中的浅比较是如何工作的](https://github.com/flytam/blog/issues/28) 2022-04-15
+
 [React Native性能优化：应该做和不应该做的](https://github.com/flytam/blog/issues) 2021-03-03
 
 [77.9K Star 的 Axios 项目如何优雅实现请求重试](https://github.com/flytam/blog/issues/21)
