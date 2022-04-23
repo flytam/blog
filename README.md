@@ -26,6 +26,8 @@
 
 #### react
 
+[使用TypeScript并升级到React 18](https://github.com/flytam/blog/issues/29) 2022-04-23
+
 [React中的浅比较是如何工作的](https://github.com/flytam/blog/issues/28) 2022-04-15
 
 [React Native性能优化：应该做和不应该做的](https://github.com/flytam/blog/issues) 2021-03-03
