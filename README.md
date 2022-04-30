@@ -66,6 +66,9 @@
 [打造Github Issue到Hexo部署自动工作流](https://github.com/flytam/blog/issues/27) 2022-04-10
 
 #### nodejs
+
+[4个避免使用npm link的理由](https://github.com/flytam/blog/issues/30) 2022-04-30
+
 [译：npm 7已经可以使用了](https://github.com/flytam/blog/issues/23)
 
 [如何实现一个惊艳面试官的非递归版本的 js 对象深拷贝方法](https://github.com/flytam/blog/issues/18) 2020-03-28
