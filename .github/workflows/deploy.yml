@@ -12,6 +12,9 @@ env:
 on:
   issues:
     types: [opened, edited]
+  push:
+    branches:    
+      - 'main'
 jobs:
   build:
     runs-on: ubuntu-latest
