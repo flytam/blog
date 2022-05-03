@@ -26,7 +26,7 @@ jobs:
           ref: 'main'
           token: ${{ secrets.token }}
       - name: issue生成 hexo文章
-        uses: flytam/github-issue-to-hexo@v1.0.3
+        uses: flytam/github-issue-to-hexo@main
         with:
           issue_url: ${{ env.ISSUE_URL }}
           output: 'source/_posts'
