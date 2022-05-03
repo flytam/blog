@@ -14,7 +14,7 @@ on:
     types: [opened, edited]
   push:
     branches:    
-      - 'main'
+      - 'master'
 jobs:
   build:
     runs-on: ubuntu-latest
