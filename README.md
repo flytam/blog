@@ -15,7 +15,7 @@
 
 [javascript装饰器进入stage3了](https://github.com/flytam/blog/issues/26) 2022-04-04
 
-[JavaScript不再需要写void 0了](https://github.com/flytam/blog/issues/31)
+[JavaScript不再需要写void 0了](https://github.com/flytam/blog/issues/31) 2022-05-23
 
 #### deno
 [deno 初体验，实战记录一个node项目迁移到deno需要做什么](https://github.com/flytam/blog/issues/19)
