@@ -18,6 +18,9 @@
 [JavaScript不再需要写void 0了](https://github.com/flytam/blog/issues/31) 2022-05-23
 
 #### deno
+
+[如何将Node.js库转换到Deno](https://github.com/flytam/blog/issues/19) 2022-05-28
+
 [deno 初体验，实战记录一个node项目迁移到deno需要做什么](https://github.com/flytam/blog/issues/19)
 
 #### Go
