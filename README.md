@@ -1,3 +1,3 @@
 ## [Blog](https://blog.flytam.vip)
 
-![image](https://user-images.githubusercontent.com/20512530/162600510-8f8d3217-754a-441d-9f77-e5e95ab39b38.png)
+![](https://files.mdnice.com/user/8265/6f96e402-5262-4969-b58a-699a0ac57f95.png)
