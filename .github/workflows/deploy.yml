@@ -39,7 +39,7 @@ jobs:
           echo $(date) > update.md
           git add .
           git config user.name "issue-to-hexo bot"
-          git config user.email "test@github.com"
+          git config user.email "tanjiahui2015@foxmail.com"
           git commit -m "Add a post"
       - name: 推送hexo源文件
         uses: ad-m/github-push-action@master
